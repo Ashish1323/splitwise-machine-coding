@@ -1,4 +1,4 @@
-#System Design for Splitwise App.
+# System Design for Splitwise App.
 
 ### User Class
 - `userID`
